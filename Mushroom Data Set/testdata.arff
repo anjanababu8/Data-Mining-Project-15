@@ -1,0 +1,21 @@
+@relation keeldataset
+
+@attribute odor {p,a,l,n,f,c,y,s,m}
+@attribute gill-spacing {c,w}
+@attribute gill-size {n,b}
+@attribute spore-print-color {k,n,u,h,w,r,o,y,b}
+@attribute population {s,n,a,v,y,c}
+@attribute verdict {p,e}
+
+@data
+y,w,n,u,v,p
+a,c,n,k,s,p
+f,w,b,h,v,e
+m,w,b,b,c,p
+m c,n,o,a,p
+m,w,n,k,n,e
+l,c,b,k,n,p
+f,w,n,u,v,p
+p,c,b,k,s,e
+s,c,n,u,v,p
+
